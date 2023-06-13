@@ -24,7 +24,7 @@ class Program
         string nome = "joao daum" ;
         double valor = 100000.50;
         bool status = true;
-
+        char letra = 'A';
  
 
     }
